@@ -1,0 +1,60 @@
+header {
+    background: black;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+div {
+    color: white;
+    background: gray;
+    padding: 10px;
+    display: flex;
+    flex-direction:column ;
+}
+
+div a {
+    padding: 5px;
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 820px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+h2 {
+
+    color: red;
+    text-transform: comic;
+}
+
+h4 {
+
+    color: whitesmoke;
+    text-transform: arial;
+}
+
+h3 {
+
+    color: black;
+    text-transform: impact;
+}
+
+strong {
+    color: darkred;
+}
+
+big {
+
+    color: black;
+}
